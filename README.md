@@ -16,4 +16,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamjai-3&show_icons=true&locale=en&layout=compact" alt="iamjai-3" /></p>
 
 
-[![Jayaprakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjai-3&hide=contribs,prs,show_icons=tru)](https://github.com/iamjai-3/github-readme-stats)
+<!-- [![Jayaprakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamjai-3&hide=contribs,prs,show_icons=tru)](https://github.com/iamjai-3/github-readme-stats) -->
+
+![Jayaprakash's github stats](https://github-stats-alpha.vercel.app/api/?username=iamjai-3)
